@@ -1,0 +1,29 @@
+# local env / deps
+venv/
+.venv/
+env/
+
+# personal / not for submission
+INTERVIEW_PREP_DEEP_DIVE.md
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# tests / tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# os / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
