@@ -3,9 +3,6 @@ venv/
 .venv/
 env/
 
-# personal / not for submission
-INTERVIEW_PREP_DEEP_DIVE.md
-
 # python
 __pycache__/
 *.py[cod]
